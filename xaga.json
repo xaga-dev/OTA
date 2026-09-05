@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1786347661,
+    "datetime": 1788589956,
     "files": [
       {
-        "filename": "lineage-23.2-20260810-UNOFFICIAL-xaga.zip",
+        "filename": "lineage-23.2-20260905-UNOFFICIAL-xaga.zip",
         "os_patch_level": "2026-08-01",
         "os_sdk_level": 36,
-        "sha256": "C14690182666833DAD34E967B00FB58A0C83D38A493BA990D52A2599E8DA68CB",
-        "size": 1611810991,
-        "url": "https://github.com/angad-aosp/OTA/releases/download/tag/23.2-20260810-UNOFFICIAL-Xaga/lineage-23.2-20260810-UNOFFICIAL-xaga.zip"
+        "sha256": "0955C190AEED2D7B838FF89B0427ADD708C0BCCEE365C1F21BE6076C81318391",
+        "size": 1610836198,
+        "url": "https://github.com/angad-aosp/OTA/releases/download/tag/23.2-20260905-UNOFFICIAL-Xaga/lineage-23.2-20260905-UNOFFICIAL-xaga.zip"
       }
     ],
     "type": "UNOFFICIAL",
